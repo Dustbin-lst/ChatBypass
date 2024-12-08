@@ -1,12 +1,8 @@
-# Extension Example
+# ChatBypass
 
-A example extension implementation with [opensource-components](https://github.com/opai-client/opensource-components)
+A extension which bypass chat filter
 
 **Features**
-- **.binds**: show a bind list
-- **AutoWool**: automatically buy wool when you don't have enough
-- **CustomScoreboard**: a custom scoreboard widget
+- bypass some chat filter
+- capable with [AutoL](https://github.com/opai-client/AutoL)
 
-## Screenshots
-
-![1](https://i.imgur.com/AvaprIf.png)

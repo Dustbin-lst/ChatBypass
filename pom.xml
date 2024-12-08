@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>today.opai</groupId>
-    <artifactId>Opai-Extension-Example</artifactId>
+    <artifactId>ChatBypass</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
